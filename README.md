@@ -1,12 +1,11 @@
-this is a program I wrote that is a classifier to identify misinformation it can be trained on more data easily and determine what's real and what's fake when you give the model a new never before seen dataset
-
-
-the program can be easily improved upon and is expandable
 
 
 Disinformation Classifier
 ---------
 This project is a machine learning-based disinformation classifier that identifies whether a piece of news is REAL or FAKE. The classifier uses an ensemble of Naive Bayes and SVM models to predict the authenticity of text data.
+
+This is a program I wrote that is a classifier to identify misinformation it can be trained on more data easily and to determine what's real information and news and what's fake when you give the model a new never before seen dataset. 
+The program can be easily improved upon and is expandable.
 
 Directory Structure
 ---------
